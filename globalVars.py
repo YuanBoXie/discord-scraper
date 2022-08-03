@@ -1,0 +1,2 @@
+class GlobalVars:
+    args = None
